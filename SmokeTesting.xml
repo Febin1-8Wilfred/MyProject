@@ -1,0 +1,8 @@
+<suite name="Smoke Testing">
+  <test verbose = "10" name="Smoke Testing">
+  	<parameter name = "browser" value = "firefox"></parameter>
+	    <classes>
+	      <class name = "projectpackage.TC_SwitchWindow"/>-->
+	    </classes>
+  </test> 
+</suite> 

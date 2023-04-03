@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-29T12:41:56 IST" name="FebinWilfred" finished-at="2023-03-29T12:42:11 IST" duration-ms="14683">
+    <groups>
+    </groups>
+    <test started-at="2023-03-29T12:41:56 IST" name="Mozilla Firefox" finished-at="2023-03-29T12:42:11 IST" duration-ms="14649">
+      <class name="projectpackage.TC_CopyAndPaste">
+        <test-method is-config="true" signature="settingUp(java.lang.String)[pri:0, instance:projectpackage.TC_CopyAndPaste@38089a5a]" started-at="2023-03-29T12:41:56 IST" name="settingUp" finished-at="2023-03-29T12:42:01 IST" duration-ms="5194" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingUp -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:projectpackage.TC_CopyAndPaste@38089a5a]" started-at="2023-03-29T12:42:01 IST" name="beforeMethod" finished-at="2023-03-29T12:42:04 IST" duration-ms="2450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test()[pri:0, instance:projectpackage.TC_CopyAndPaste@38089a5a]" started-at="2023-03-29T12:42:04 IST" name="test" finished-at="2023-03-29T12:42:11 IST" duration-ms="6794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- projectpackage.TC_CopyAndPaste -->
+    </test> <!-- Mozilla Firefox -->
+    <test started-at="2023-03-29T12:42:11 IST" name="Microsoft Edge" finished-at="2023-03-29T12:42:11 IST" duration-ms="1">
+    </test> <!-- Microsoft Edge -->
+  </suite> <!-- FebinWilfred -->
+</testng-results>

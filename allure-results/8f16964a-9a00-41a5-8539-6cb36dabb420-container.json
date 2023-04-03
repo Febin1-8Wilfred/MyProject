@@ -1,0 +1,1 @@
+{"uuid":"8f16964a-9a00-41a5-8539-6cb36dabb420","name":"projectpackage.TC_CopyAndPaste","children":["22ee8a0c-78e1-48b9-b313-938dbea8439e"],"befores":[{"name":"settingUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1680262876373,"stop":1680262881222}],"afters":[],"start":1680262876324,"stop":1680262890390}

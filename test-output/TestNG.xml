@@ -1,0 +1,60 @@
+<suite name = "FebinWilfred">
+	
+<!--	<test name = "Google Chrome">-->
+<!--		<parameter name = "browser" value = "chrome"></parameter>-->
+<!--			<classes>-->
+<!--				-->
+<!--				<class name = "projectpackage.TC_CheckBox"/>-->
+<!--				<class name = "projectpackage.TC_DatePicker"/>-->
+<!--				<class name = "projectpackage.TC_DropDown"/>-->
+<!--				<class name = "projectpackage.TC_FileUploadUsingSendKeys"/>-->
+<!--				<class name = "projectpackage.TC_RadioButton"/>-->
+<!--				<class name = "projectpackage.TC_SubmitForm"/>-->
+<!--			</classes>-->
+<!--	</test>-->
+	
+	<test name = "Mozilla Firefox">
+		<parameter name = "browser" value = "firefox"></parameter>
+<!--		<listeners>-->
+<!--		<listener class-name = "projectpackage.ProfessorAlbusDumbledore"></listener>-->
+<!--		</listeners>-->
+			<classes>
+<!--				<class name = "projectpackage.TC_RightAndDoubleClick"/>-->
+<!--				<class name = "projectpackage.TC_CopyAndPaste"/>-->
+<!--				<class name = "projectpackage.TC_BrokenLinks"/>-->
+<!--				<class name = "projectpackage.TC_CheckBox"/>-->
+<!--				<class name = "projectpackage.TC_DatePicker"/>-->
+<!--				<class name = "projectpackage.TC_DropDown"/>-->
+<!--				<class name = "projectpackage.TC_FileUploadUsingSendKeys"/>-->
+<!--				<class name = "projectpackage.TC_FileUploadUsingRobotClass"/>-->
+<!--				<class name = "projectpackage.TC_FileUploadUsingAutoIt"/>-->
+<!--				<class name = "projectpackage.TC_Modal"/>-->
+<!--				<class name = "projectpackage.TC_PageScroll"/>	-->
+<!--				<class name = "projectpackage.TC_RadioButton"/>-->
+					<class name = "projectpackage.TC_SubmitForm"/>
+
+				<class name = "projectpackage.TC_SwitchWindow"/>
+				
+			</classes>
+	</test>
+
+	<test name = "Microsoft Edge">
+		<parameter name = "browser" value = "edge"></parameter>
+			<classes>
+<!--				<class name = "projectpackage.TC_RightAndDoubleClick"/>-->
+<!--				<class name = "projectpackage.TC_CopyAndPaste"/>-->
+<!--				<class name = "projectpackage.TC_BrokenLinks"/>-->
+<!--				<class name = "projectpackage.TC_CheckBox"/>-->
+<!--				<class name = "projectpackage.TC_DatePicker"/>-->
+<!--				<class name = "projectpackage.TC_DropDown"/>-->
+<!--				<class name = "projectpackage.TC_FileUploadUsingSendKeys"/>-->
+<!--				<class name = "projectpackage.TC_FileUploadUsingRobotClass"/>-->
+<!--				<class name = "projectpackage.TC_FileUploadUsingAutoIt"/>-->
+<!--				<class name = "projectpackage.TC_PageScroll"/>-->				
+<!--				<class name = "projectpackage.TC_RadioButton"/>-->
+<!--				<class name = "projectpackage.TC_SwitchWindow"/>-->
+<!--				<class name = "projectpackage.TC_SubmitForm"/>-->
+			</classes>
+	</test>
+</suite>
+
